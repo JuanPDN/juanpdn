@@ -34,7 +34,7 @@
   ![Asrto](https://img.shields.io/badge/Asrto-black?logo=astro)
   ![Svelte](https://img.shields.io/badge/Svelte-orange?logo=svelte)
   ![MySQL](https://img.shields.io/badge/MySQL-silver?logo=mysql)
-  ![mongoDB](https://img.shields.io/badge/mongoDB-silver?logo=mongodb)
+  ![mongoDB](https://img.shields.io/badge/mongoDB-green?logo=mongodb)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-silver?logo=PostgreSQL)
   ![GIT](https://img.shields.io/badge/GIT-black?logo=git)
   ![GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub)
